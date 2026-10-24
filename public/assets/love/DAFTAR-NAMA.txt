@@ -1,0 +1,12 @@
+Foto bentuk LOVE (hati). Ganti isi foto dengan nama sama (foto1.jpg ... foto10.jpg).
+
+foto1.jpg  <=  WA_1792658183648.jpeg
+foto2.jpg  <=  SnapTik_Net_7694519365949000980_2.jpeg
+foto3.jpg  <=  SnapTik_Net_7694519365949000980_5.jpeg
+foto4.jpg  <=  SnapTik_Net_7694519365949000980_4.jpeg
+foto5.jpg  <=  SnapTik_Net_7694519365949000980_3.jpeg
+foto6.jpg  <=  IMG-20261022-WA0044.jpg
+foto7.jpg  <=  IMG-20261022-WA0037.jpg
+foto8.jpg  <=  IMG-20261022-WA0034.jpg
+foto9.jpg  <=  IMG-20261022-WA0036.jpg
+foto10.jpg  <=  IMG-20261022-WA0035.jpg

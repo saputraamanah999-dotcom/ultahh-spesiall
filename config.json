@@ -1,0 +1,238 @@
+{
+  "site": {
+    "title": "Happy Birthday Niaa💙"
+  },
+  "recipient": {
+    "name": "Niaa"
+  },
+  "sender": {
+    "name": "Aku"
+  },
+  "pin": {
+    "code": "281009",
+    "title": "hayolo, apa yaa kode nyaa",
+    "hint": "clue : tanggal ulang tahunmu Niaa",
+    "hintAfterWrong": 1,
+    "hintWrong": "utututu, kodenya itu ini 281009 💙",
+    "wrongText": "Kode belum cocok",
+    "okTitle": "yeay, kamu berhasil!",
+    "okText": "Terbuka"
+  },
+  "music": {
+    "url": "/audio/dirayakan.mp3",
+    "title": "lagu buat kamu",
+    "loop": true,
+    "volume": 0.7
+  },
+  "intro": {
+    "tapText": "Ketuk untuk membuka 🌸",
+    "sweepColor": "red"
+  },
+  "hello": {
+    "gif": "/assets/gif/stiker2.gif",
+    "title": "hii, Niaa 🫶🏻👋🏻",
+    "button": "tap disinii <3",
+    "readyGif": "/assets/gif/stiker3.gif",
+    "readyTitle": "areee youuu readyyy to openn your birthday surpriseee?",
+    "yes": "yess",
+    "no": "noo",
+    "refuseGif": "/assets/gif/stiker4.gif",
+    "refuseTitle": "OH GITU SEKARANG KAMU SAMA AKU? 😡",
+    "refuseBack": "back"
+  },
+  "cake": {
+    "line1": "Ada hadiah spesial buat kamu...",
+    "line2": "Tapi sebelum dibuka, tiup lilinnya dulu 🎂",
+    "hint": "👆 Tekan & tahan lilinnya sampai padam",
+    "holding": "Teruss... tahann...",
+    "holdSeconds": 2.6,
+    "lineHoldMs": 1500
+  },
+  "darkLines": [
+    "apinyaa padammm...",
+    "tapii kamuu nggakk ngelewatinn tahuun ini sendiriann.",
+    "Pelann-pelann yaaa, {name}. {sender} di sinii oteyy."
+  ],
+  "wish": {
+    "kicker": "SATU PERMOHONAN",
+    "title": "Di hari spesialmu ini... pilih satu wish untuk tahun barumu. 💙",
+    "accepted": "Wish diterima. Semoga satu per satu hal baik menemukan jalannya menuju kamu. ✨",
+    "options": [
+      "Semoga aku selalu punya alasan untuk tersenyum",
+      "Semoga semua impian dan cita-citaku tercapai",
+      "Semoga rezeki dan kebahagiaan selalu menyertaiku",
+      "Semoga kita tetap dekat dan punya banyak kenangan indah bersama 💙"
+    ]
+  },
+  "memories": {
+    "caption": "kumpulann foto² kamuuu, dengan senyum yang selalu punya cara untuk bikin hari jadi lebih indahh",
+    "title": "Happy Birthday, {name}.",
+    "subtitle": "Hari ini, duniaa punyaa alasann untukk merayakann seseorangg sepertimuu.",
+    "button": "Ada satu surat buat kamu →"
+  },
+  "photos": [
+    {
+      "url": "/assets/scrapbook/foto1.jpg",
+      "caption": "senanggg bangettt bisaa kenall kamuu, Niaa. semogaa senyummuu selaluu adaa dann bahagiamuu ndakk pernahh habiss.",
+      "date": "seseorang yang istimewa"
+    },
+    {
+      "url": "/assets/scrapbook/foto2.jpg",
+      "caption": "Niaaa cantikk bangettt, semogaa kamuu selaluu bahagiaa dann tetapp jadii Niaa yangg akuu kenall.",
+      "date": "cantiknyaa princess"
+    },
+    {
+      "url": "/assets/scrapbook/foto3.jpg",
+      "caption": "boncengann barengg kamuu, sederhanaa sihh, tapii jadii salahh satuu kenangann maniss buattt acuuu.",
+      "date": "perjalanann kecill kitaa"
+    },
+    {
+      "url": "/assets/scrapbook/foto4.jpg",
+      "caption": "pertamaa kali mencarii rumahmuu princesss untukk jemputt buatt sekolahh barengg akuu, ternyata jadi kenangan juga",
+      "date": "pertama kali menujuu rumahmuu"
+    },
+    {
+      "url": "/assets/scrapbook/foto5.jpg",
+      "caption": "mabarrr ff pertamaa kitaa, ternyataa seseruu ituu mainn barengg kamuu, semogaa lainn kalii kitaa bisaa mabarr lagii",
+      "date": "mabar pertama kita"
+    }
+  ],
+  "scrapbook": {
+    "kicker": "BUKU KENANGAN",
+    "coverTitle": "Our Little Story",
+    "coverSubtitle": "buat {name}",
+    "openHint": "Ketuk buku untuk membukanya",
+    "next": "Lanjut →",
+    "endTitle": "dan cerita kita masih panjang…",
+    "endGif": "/assets/gif/g-box.gif",
+    "stickers": [
+      "/assets/gif/icon1.gif",
+      "/assets/gif/g-icon5.gif",
+      "/assets/gif/stiker5.gif",
+      "/assets/gif/g-icon3.gif",
+      "/assets/gif/stiker7.gif"
+    ],
+    "calendar": {
+      "src": "/assets/scrapbook/kalender-oktober.webp",
+      "caption": "28 Oktober, tanggal yang paling aku tunggu-tunggu",
+      "date": "hari spesialnya {name}",
+      "ring": [
+        39.01,
+        47.38
+      ],
+      "hint": "ketuk untuk memperbesar"
+    }
+  },
+  "letter": {
+    "kicker": "SURAT KECIL",
+    "date": "",
+    "text": "hariii inii adalahhh harii spesiall seseorangg yangg menyenangkann untukk dikenall. 💙\nselamatt ulangg tahunn, Niaaa. terimaakaciih sudahh menjadii dirimuu sendirii dann menjadii bagiann darii beberapaa kenangann indahh yangg akuu punyaa. semogaaa kamuu selaluu bahagiaa, dimudahkann dalamm segalaa urusann, dann dikelilingii orangg orangg yangg bener bener tuluss menyayangimuu.\nsemogaa tahunn iini membawaa banyakk hall baikk untukmuu, yaaa. jangann lupaa tersenyumm dann jaga dirimuu baikk baikk. 🤍",
+    "signature": "– {sender}",
+    "more": "masihh adaa lagii →"
+  },
+  "card": {
+    "kicker": "UNTUK KAMU",
+    "title": "Happy Birthday, {name}",
+    "from": "dari {sender}",
+    "message": "selamattt ulangg tahunn, Niaaa!\nsemoga semuua hal baikk yangg kamuu harapkan perlahan menjadi nyata. semoga kamuu selaluu bahagiaa, rezekimuu lancarr, dann segala urusanmuu dimudahkann. \nterima kasihhh sudahh jadii bagian darii cerita dann kenangann maniss akuu. tetap jadii Niaa yangg akuu kenall yaaa. semogaaa masii banyakk kenangann indahh yangg bisaa kitaa buattt barengg lagiii. 💙",
+    "gif": "/assets/gif/happy3.gif",
+    "button": "Buka bunga penutup 💐",
+    "restart": "Ulangi dari awal",
+    "gifs": [
+      {
+        "src": "/assets/gif/happy3.gif",
+        "css": "top:-66px;right:-8px;width:104px;--rot:6deg"
+      },
+      {
+        "src": "/assets/gif/g-icon5.gif",
+        "css": "bottom:-62px;left:-16px;width:96px;--rot:-6deg"
+      },
+      {
+        "src": "/assets/gif/g-icon3.gif",
+        "css": "bottom:-56px;right:-14px;width:104px;--rot:5deg"
+      },
+      {
+        "src": "/assets/gif/g-box.gif",
+        "css": "top:38%;left:-46px;width:62px;--rot:-10deg"
+      }
+    ]
+  },
+  "bouquet": {
+    "kicker": "BUNGA PENUTUP",
+    "title": "Bunga kecil buat {name}",
+    "subtitle": "bungaa kecill inii mungkinn cumaa bisaa hadirr lewatt layarr, tapii doaa dann harapann baikk untukmuu datangg dengann tuluss. semogaa kamuu selaluu bahagiaa, Niaaa. 💙",
+    "flowers": [
+      {
+        "name": "Red rose",
+        "meaning": "Cinta"
+      },
+      {
+        "name": "Dahlia",
+        "meaning": "Komitmen"
+      },
+      {
+        "name": "Forget-me-not",
+        "meaning": "Kenangan"
+      }
+    ],
+    "tapHint": "Ketuk buketnya pelan-pelan ♡",
+    "back": "Back to card",
+    "restart": "Ulang dari awal",
+    "msgOpen": "Mau bilang sesuatu ke aku? ✍️",
+    "msgPlaceholder": "Tulis sesuatu buat aku…",
+    "msgSend": "Kirim 💌",
+    "msgThanks": "Terkirim. Makasih ya 💙"
+  },
+  "lovePhotos": [
+    {
+      "url": "/assets/love/foto1.jpg",
+      "pos": "50% 32%",
+      "group": 1
+    },
+    {
+      "url": "/assets/love/foto2.jpg",
+      "pos": "50% 41%",
+      "group": 2
+    },
+    {
+      "url": "/assets/love/foto3.jpg",
+      "pos": "50% 41%",
+      "group": 3
+    },
+    {
+      "url": "/assets/love/foto4.jpg",
+      "pos": "50% 41%",
+      "group": 4
+    },
+    {
+      "url": "/assets/love/foto5.jpg",
+      "pos": "50% 46%",
+      "group": 5
+    },
+    {
+      "url": "/assets/love/foto6.jpg",
+      "pos": "50% 16%",
+      "group": 6
+    },
+    {
+      "url": "/assets/love/foto7.jpg",
+      "pos": "50% 20%",
+      "group": 7
+    },
+    {
+      "url": "/assets/love/foto8.jpg",
+      "pos": "50% 34%",
+      "group": 8
+    },
+    {
+      "url": "/assets/love/foto9.jpg",
+      "pos": "50% 34%",
+      "group": 8
+    },
+    {
+      "url": "/assets/love/foto10.jpg",
+      "pos": "50% 20%",
+      "group": 7
+    }
+  ]
+}

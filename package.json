@@ -1,0 +1,11 @@
+{
+  "name": "ultah untuk seseorang niaa",
+  "version": "1.0.0",
+  "description": "Website kado ulang tahun interaktif bertema biru (tanpa dependency)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build:static": "node build-static.js"
+  },
+  "engines": { "node": ">=16" }
+}

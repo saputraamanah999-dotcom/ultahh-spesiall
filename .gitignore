@@ -1,0 +1,4 @@
+.env
+visits.log
+dist/
+node_modules/

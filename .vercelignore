@@ -1,0 +1,5 @@
+.env
+visits.log
+node_modules
+dist
+.vercel
